@@ -1,5 +1,5 @@
-!pip install googletrans
-pip install googletrans==4.0.0-rc1
+#!pip install googletrans
+#pip install googletrans==4.0.0-rc1
 from googletrans import Translator, LANGUAGES
 
 # Get user input
